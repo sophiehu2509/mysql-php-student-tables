@@ -1,7 +1,7 @@
 <?php
 
 DEFINE ('DB_USER', 'studentweb');
-DEFINE ('DB_PASSWORD', '252744So*');
+DEFINE ('DB_PASSWORD', 'Password');
 DEFINE ('DB_HOST', 'localhost');
 DEFINE ('DB_NAME', 'test3');
 
