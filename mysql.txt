@@ -1,0 +1,1 @@
+ CREATE USER 'studentweb'@'localhost' IDENTIFIED BY 'Password'
