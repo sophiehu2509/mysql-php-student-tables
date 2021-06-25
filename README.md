@@ -1,3 +1,3 @@
 # mysql + php (student tables)
 
-![alt text](https://github.com/sophiehu2509/mysql-php-student-tables/main/addStudentTable.jpeg?raw=true)
+![addStudentTable](https://user-images.githubusercontent.com/11381376/123447888-56a7ed80-d5a8-11eb-97a6-78f93456bacf.jpeg)
